@@ -1,0 +1,6 @@
+//  errorC - Force and Error to see how Error Data is Produced
+
+int i = 0;
+
+    syscall(motorset, "0:0");
+    syscall(delay, "500);
