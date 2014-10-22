@@ -6,8 +6,6 @@ For Jade robot Developers ONLY
 
 Force an Error to See how the Error Data is produced.  
 
-This Project was Created for developers ONLY and should be removed.  
-
 ### Project Information
 ```
 Type              : C
