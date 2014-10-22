@@ -1,6 +1,9 @@
 errorC
 ======
 
+For Jade robot Developers ONLY
+==============================
+
 Force an Error to See how the Error Data is produced.  
 
 This Project was Created for developers ONLY and should be removed.  
@@ -10,7 +13,7 @@ This Project was Created for developers ONLY and should be removed.
 Type              : C
 Version           : 01.0
 Author            : myke predko
-Firmware          : 40
+Firmware          : 42
 ```
 
 
